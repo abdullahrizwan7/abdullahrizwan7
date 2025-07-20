@@ -102,5 +102,5 @@
 ### 💬 Visitor Count
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/abdullahrizwan7/count.svg" />
+ <img src="https://profile-counter.glitch.me/abdullahrizwan7/count.svg" />
 </p>
