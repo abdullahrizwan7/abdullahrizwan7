@@ -28,25 +28,6 @@
 
 ---
 
-### 🐍 Snake Contributions Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abdullahrizwan7/abdullahrizwan7/output/github-contribution-grid-snake.svg" />
-</p>
-
-> Make sure GitHub Actions are enabled in your repo to make the snake animate. Use the [snake action](https://github.com/Platane/snk) to generate it.
-
----
-
-### 🎧 Now Playing on Spotify
-
-<p align="center">
-  <img src="https://spotify-now-playing-ivory.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />
-</p>
-
-> You’ll need to fork this [Spotify API Now Playing](https://github.com/kittinan/spotify-now-playing) and deploy it to Vercel with your Spotify credentials.
-
----
 
 ### 🛠️ Skills & Tools
 
