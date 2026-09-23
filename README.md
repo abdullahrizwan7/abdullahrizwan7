@@ -1,106 +1,77 @@
-<h1 align="center">Hi 👋, I'm Abdullah Rizwan</h1>
-<h3 align="center">🚀 Full Stack Developer | 🌟 Freelancer | 💡 Passionate Innovator</h3>
+<h1 align="center">Hi, I'm Abdullah Rizwan 👋</h1>
+<p align="center"><strong>Building web experiences with React, TypeScript & AI-powered features</strong></p>
+<p align="center">B.Tech Computer Science student at Lovely Professional University · Class of 2028</p>
 
 <p align="center">
-  <a href="https://abdullahrizwan7.github.io/portfolio" target="_blank">
-    <img alt="Website" src="https://img.shields.io/badge/🌐%20Portfolio-0A66C2?style=for-the-badge&logo=Google-Chrome&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/build.1080p/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/📸%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://github.com/abdullahrizwan7" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/🐙%20GitHub-181717?style=for-the-badge&logo=github">
-  </a>
+  <a href="https://abdullahrizwan7.github.io/portfolio/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/abdullah-rizwan7/">LinkedIn</a> ·
+  <a href="https://fitvision-318e5.web.app/">Try FitVision</a>
 </p>
 
 ---
 
-### 📈 GitHub Stats
+## About me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahrizwan7&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahrizwan7&theme=tokyonight" />
-</p>
+I'm a Computer Science student focused on full-stack development. I enjoy turning practical ideas into responsive applications, from camera-based workout guidance to voice-driven shopping.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahrizwan7&layout=compact&theme=tokyonight" />
-</p>
+- 🎓 Pursuing **B.Tech in CSE (2025–2028)** at **Lovely Professional University**, with a minor in **Full Stack Development**.
+- 🧱 Entered B.Tech through lateral entry after a **Diploma in CSE at LPU (2022–2025)**.
+- 💻 Previously worked part-time in frontend development at **Digital Web Solution Pvt. Ltd.**
+- 🌱 Developing my full-stack skills alongside data structures and algorithms.
+- 🏊 Away from code, I enjoy swimming and the gym, with an interest in calisthenics.
 
----
+## Featured projects
 
+### 🏋️ FitVision — AI-powered workout guidance
 
-### 🛠️ Skills & Tools
+A fitness web application that uses the camera to help users track exercises and understand their form.
 
-#### 👨‍💻 Languages
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-</p>
+- Real-time pose detection, repetition counting and timed exercises.
+- Posture feedback, body-visibility checks and workout summaries.
+- Firebase authentication and saved workout analytics.
+- Gemini-powered AI Coach with a Cloudflare Worker backend.
 
-#### ⚙️ Frameworks & Libraries
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" />
-</p>
+**Built with:** React · TypeScript · Tailwind CSS · TensorFlow.js · MoveNet · Firebase · Gemini API
 
-#### 🎨 UI/UX Tools
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" height="40" />
-</p>
+[Live demo](https://fitvision-318e5.web.app/) · [Source code](https://github.com/abdullahrizwan7/FitVision)
 
-#### 🗃️ Databases
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-</p>
+### 🏠 Property Management System
 
-#### 🔧 Tools & Platforms
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
-  <img src="https://avatars.githubusercontent.com/u/6392739?s=200&v=4" alt="Conda" height="40" />
-</p>
+A web project for property-management workflows, with admin, landlord and tenant interfaces.
 
-#### 🧠 IDEs
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
-</p>
+**Built with:** React · JavaScript · Firebase · Node.js
 
----
+[Source code](https://github.com/abdullahrizwan7/Property-app)
 
-### 💻 My Workspace
+### 🛒 AI Shopping
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" height="40" alt="macOS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
-</p>
+A shopping project exploring voice-driven product search and cart interactions.
 
----
+**Built with:** React · JavaScript · Node.js · Express · Web Speech API · Firebase
 
-### 📫 Connect with Me
+[Source code](https://github.com/abdullahrizwan7/AiShopping)
 
-- 🌐 Portfolio: [abdullahrizwan7.github.io/portfolio](https://abdullahrizwan7.github.io/portfolio)
-- 📧 Email: [rizwanabdullah101@gmail.com](mailto:rizwanabdullah101@gmail.com)
-- 📸 Instagram: [@build.1080p](https://www.instagram.com/build.1080p/)
-- 🐙 GitHub: [abdullahrizwan7](https://github.com/abdullahrizwan7)
+### 🌐 Academic Tech Portfolio
 
----
+My first portfolio project: a home for my academic journey, technical skills and projects.
 
-> ✨ *“Code like a poet, debug like a detective.”*  
-> Let’s build the future together! 🚀
+[Visit portfolio](https://abdullahrizwan7.github.io/portfolio/) · [Source code](https://github.com/abdullahrizwan7/portfolio)
 
----
+## Technologies I work with
 
-### 💬 Visitor Count
+| Area | Technologies |
+| --- | --- |
+| Programming | C, C++, Java, Python, JavaScript, TypeScript |
+| Frontend | HTML, CSS, React, Tailwind CSS, Framer Motion |
+| Backend & data | Node.js, Express, Firebase Authentication, Firestore |
+| AI integrations | TensorFlow.js, MoveNet, MediaPipe Pose, Gemini API |
+| Development tools | Git, GitHub, Vite, GitHub Actions, Cloudflare Workers |
 
-<p align="center">
- <img src="https://profile-counter.glitch.me/abdullahrizwan7/count.svg" />
-</p>
+## Experience & learning
+
+- **Digital Web Solution Pvt. Ltd. — Part-time Frontend Developer (2024):** Built responsive client websites and collaborated with designers on user interfaces.
+- **MIE Gurukul — Six-week summer training (2026):** Data Structures and Algorithms and Competitive Coding.
+
+## Let's connect
+
+Interested in my work or want to discuss a project? Find me on [LinkedIn](https://www.linkedin.com/in/abdullah-rizwan7/) or explore my [portfolio](https://abdullahrizwan7.github.io/portfolio/).
